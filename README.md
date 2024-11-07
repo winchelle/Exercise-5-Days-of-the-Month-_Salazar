@@ -1,4 +1,5 @@
-This code will ask the user to put the month and year. Then it will show the days in the month entered by the user, and the code will show if the year entered is leap year or not.
+This code will ask the user to put the month and year. Then it will show the days in the month entered by the user,
+and the code will show if the year entered is leap year or not.
 
 First step, is to ask for user input (about the month).
 Second step, is to ask for user input (about the year).
